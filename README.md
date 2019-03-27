@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ozcanmuhammet/nodejs-movie-api.svg)](https://travis-ci.org/ozcanmuhammet/nodejs-movie-api)
+
 # nodejs-movie-api
 NodeJS Eğitim - Movie API
 
